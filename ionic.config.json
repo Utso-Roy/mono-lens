@@ -1,0 +1,8 @@
+{
+  "name": "MonoLens",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "1edf23a9"
+}
